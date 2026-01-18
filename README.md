@@ -53,7 +53,6 @@ source venv/bin/activate   # Linux/macOS
 pip install -r requirements.txt
 ```
 
----
 
 ### **Run the Tests**
 
@@ -63,7 +62,6 @@ pytest
 
 You’ll see tests pass/fail in the console, and an HTML coverage report is generated at `reports/test_report.html`.
 
----
 
 ### **Quick Demo**
 
@@ -92,10 +90,10 @@ server.stop()
 
 Run this and watch the server and client interact in real-time. Simple and visual for presentations.
 
----
 
 ## **Why This Project Exists**
 
 * Test your Modbus clients without needing real hardware
 * Quickly simulate different sensor values and error conditions
 * Learn async + threading in Python in a practical way
+
