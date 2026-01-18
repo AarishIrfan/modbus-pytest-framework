@@ -3,7 +3,6 @@
 This project is a **simulation of a wind turbine** using Modbus TCP.
 It comes with a server that mimics turbine sensors and a client that can read/write data. Perfect for **testing boundary values, error handling, and Modbus communication** in a simple way.
 
----
 
 ## **What’s Inside**
 
@@ -17,7 +16,6 @@ It comes with a server that mimics turbine sensors and a client that can read/wr
   * Pytest tests for boundaries, errors, and communication
 * `pytest.ini` — test configuration
 
----
 
 ## **Features You Can See**
 
@@ -31,7 +29,6 @@ It comes with a server that mimics turbine sensors and a client that can read/wr
   * Connection and communication
 * Works on **Windows and Linux** with Python 3.10+
 
----
 
 ## **How to Run It**
 
@@ -102,6 +99,3 @@ Run this and watch the server and client interact in real-time. Simple and visua
 * Test your Modbus clients without needing real hardware
 * Quickly simulate different sensor values and error conditions
 * Learn async + threading in Python in a practical way
-
-
-Do you want me to do that?
